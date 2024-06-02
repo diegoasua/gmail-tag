@@ -3,6 +3,10 @@
 ## Usage
 
 - Add a `.env` file with an `OPENAI_API_KEY`
+- In GCP create a Gmail API service and put the `credentials.json` file into the repo
+
+NB: Remember to whitelist your domain for `uri redirect` to work correctly
+
 
 ### Optional
 
